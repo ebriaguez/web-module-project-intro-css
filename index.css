@@ -1,0 +1,118 @@
+html {
+    font-size:62.5%;
+}
+
+nav #plan {
+    background-color: #FF764E;
+}
+
+nav #learn {
+    background-color: #5ED3EB;
+}
+
+nav #get {
+    background-color: #FFCD69;
+}
+
+#plan, #learn, #get {
+    border-radius: 15%;
+    color: white;
+    font-size: 1.7rem;
+    text-align: center;
+    display: inline-block;
+    margin: 15px 80px;
+    padding: 15px 10px 15px 10px;
+    text-decoration: none;
+
+}
+
+#mountain {
+    border-radius: 100%;
+    width: 250px;
+    padding: 0 5px;
+    margin: 80px 0 0 10px;
+}
+
+h1 {
+    font-family: 'Chelsea Market';
+    font-size: 6.2rem;
+    position: absolute;
+    margin: 140px 30px 0px 50px;
+}
+
+#mountain, h1 {
+    display: inline-block;
+}
+
+a, div, p, footer nav {
+    font-family: 'Roboto Mono';
+}
+
+.one {
+    font-size: 1.6rem;
+    text-align: center;
+    position: absolute;
+    padding: 80px;
+    margin: 140px 90px 0px 0px;
+    display: inline-block;
+    line-height: 1.5;
+}
+
+.two {
+    background-color: #DDB9A3;
+    color: white;
+    font-size: 1.65rem;
+    text-align: center;
+    margin: 40px 30px 0px 30px;
+    padding: 1px;
+}
+
+.fire, .rv {
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.fire {
+    margin: 5px 380px 15px 380px;
+}
+
+.rv {
+    margin: 5px 380px 80px 380px;
+}
+
+#img1, #img2 {
+    width: 100px;
+    margin: 20px 470px;
+}
+
+#img3 {
+    width: 1035px;
+    display: inline-block;
+    height: 280px;
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+footer nav #plan2 {
+    background-color: #FF764E;
+}
+
+footer nav #learn2 {
+    background-color: #5ED3EB;
+}
+
+footer nav #get2 {
+    background-color: #FFCD69;
+}
+
+#plan2, #learn2, #get2 {
+    border-radius: 25%;
+    padding: 15px 10px 15px 10px;
+    color: white;
+    font-size: 1.5rem;
+    margin: 15px 70px 0px 70px;
+    display: inline-block;
+    text-decoration: none;
+}
